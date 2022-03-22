@@ -6,10 +6,15 @@ Esta é uma lista com sugestões de programas para iniciantes em programação. 
 ## EstruturaSequencial
 
 [1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.](/Estrutura%20sequencial/1.py)
+
 [2. Faça um Programa que peça um número e então mostre a mensagem O número informado foi número.](/Estrutura%20sequencial/2.py)
+
 [3. Faça um Programa que peça dois números e imprima a soma.](/Estrutura%20sequencial/3.py)
+
 [4. Faça um Programa que peça as 4 notas bimestrais e mostre a média.](/Estrutura%20sequencial/4.py)
+
 [5. Faça um Programa que converta metros para centímetros.](/Estrutura%20sequencial/5.py)
+
 6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 7. Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 8. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
