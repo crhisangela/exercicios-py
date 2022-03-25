@@ -3,7 +3,7 @@
 Esta é uma [lista com sugestões de programas para iniciantes em programação](https://wiki.python.org.br/ListaDeExercicios). Os exercícios estão divididos em categorias e procuram obedecer uma ordem de dificuldade crescente. Cada exercício é independente do outro, sendo possível deixar exercícios para trás sem grandes prejuízos.
 
 
-## EstruturaSequencial
+## Estrutura Sequencial
 
 [1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.](/Estrutura%20sequencial/1.py)
 
@@ -42,7 +42,7 @@ Esta é uma [lista com sugestões de programas para iniciantes em programação]
 [18. Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).](/Estrutura%20sequencial/18.py)
 
 
-## EstruturaDeDecisao
+## Estrutura De Decisao
 
 ## Estrutura De Repeticao
 
