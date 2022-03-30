@@ -9,3 +9,20 @@ o percentual de aumento aplicado;
 o valor do aumento;
 o novo salário, após o aumento.'''
 
+salario = int(input("Qual o seu salário hoje? (sem os centavos) R$ "))
+
+if salario <= 280:
+    salario = salario + (salario * 0.2)
+    porcentagem = '20%'
+elif salario > 280 and salario < 700:
+    salario = salario + (salario * 0.15)
+    porcentagem = '15%'
+elif salario > 700 and salario < 1500:
+    salario = salario + (salario * 0.1)
+    porcentagem = '10%'
+elif salario > 1500:
+    salario = salario + (salario * 0.05)
+    porcentagem = '5%'
+
+
+print(f"Você obteve um reajuste de {porcentagem}, logo seu salário agora será de R$ {salario}")
