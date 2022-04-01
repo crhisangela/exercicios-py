@@ -97,9 +97,6 @@ Esta é uma [lista com sugestões de programas para iniciantes em programação]
 
 [27.  Uma fruteira está vendendo frutas com a seguinte tabela de preços:    ◦                       Até 5 Kg           Acima de 5 Kg         Morango         R$ 2,50 por Kg          R$ 2,20 por Kg         Maçã            R$ 1,80 por Kg          R$ 1,50 por Kg           Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.](/Estrutura%20de%20decisao/27.py)
 
-[28. O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos de carne da promoção, porém não há limites para a quantidade de carne por cliente. Se compra for feita no cartão Tabajara o cliente receberá ainda um desconto de 5% sobre o total da compra. Escreva um programa que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.](/Estrutura%20de%20decisao/28.py)
-
-
 
 ## Estrutura De Repeticao
 
