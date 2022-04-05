@@ -122,12 +122,11 @@ Esta é uma [lista com sugestões de programas para iniciantes em programação]
 
 [11. Altere o programa anterior para mostrar no final a soma dos números.](/Estrutura%20de%20repeticao/11.py)
 
-[12. Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 ](/Estrutura%20de%20repeticao/12.py)
+[12. Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada.](/Estrutura%20de%20repeticao/12.py)
 
-[13. a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo:     a. Tabuada de 5:    b. 5 X 1 = 5     c. 5 X 2 = 10     d. ...     e. 5 X 10 = 50](/Estrutura%20de%20repeticao/13.py)
+[13. Faça um programa que peça dois números, base e expoente, calcule e mostre o primeiro número elevado ao segundo número. Não utilize a função de potência da linguagem.](/Estrutura%20de%20repeticao/13.py)
 
-
-[14. Faça um programa que peça dois números, base e expoente, calcule e mostre o primeiro número elevado ao segundo número. Não utilize a função de potência da linguagem.](/Estrutura%20de%20repeticao/14.py)
+[14. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.](/Estrutura%20de%20repeticao/14.py)
 
 [15. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.](/Estrutura%20de%20repeticao/15.py)
 
