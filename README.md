@@ -128,35 +128,11 @@ Esta é uma [lista com sugestões de programas para iniciantes em programação]
 
 [14. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.](/Estrutura%20de%20repeticao/14.py)
 
-[15. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.](/Estrutura%20de%20repeticao/15.py)
-
 [16. A série de Fibonacci é formada pela seqüência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n−ésimo termo.](/Estrutura%20de%20repeticao/16.py)
 
 [17. A série de Fibonacci é formada pela seqüência 0,1,1,2,3,5,8,13,21,34,55,... Faça um programa que gere a série até que o valor seja maior que 500.](/Estrutura%20de%20repeticao/17.py)
 
 [18. Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário. Ex.: 5!=5.4.3.2.1=120](/Estrutura%20de%20repeticao/18.py)
-
-[19. Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores.](/Estrutura%20de%20repeticao/19.py)
-
-[20. Altere o programa anterior para que ele aceite apenas números entre 0 e 1000.](/Estrutura%20de%20repeticao/20.py)
-
-[21. Altere o programa de cálculo do fatorial, permitindo ao usuário calcular o fatorial várias vezes e limitando o fatorial a números inteiros positivos e menores que 16.](/Estrutura%20de%20repeticao/21.py)
-
-[22. Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1.](/Estrutura%20de%20repeticao/22.py)
-
-[23. Altere o programa de cálculo dos números primos, informando, caso o número não seja primo, por quais número ele é divisível.](/Estrutura%20de%20repeticao/23.py)
-
-[24. Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido pelo usuário. O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos. Serão avaliados o funcionamento, o estilo e o número de testes (divisões) executados.](/Estrutura%20de%20repeticao/24.py)
-
-[25. Faça um programa que calcule o mostre a média aritmética de N notas.](/Estrutura%20de%20repeticao/25.py)
-
-[26. Faça um programa que peça para n pessoas a sua idade, ao final o programa devera verificar se a média de idade da turma varia entre 0 e 25,26 e 60 e maior que 60; e então, dizer se a turma é jovem, adulta ou idosa, conforme a média calculada.](/Estrutura%20de%20repeticao/26.py)
-
-[27. Numa eleição existem três candidatos. Faça um programa que peça o número total de eleitores. Peça para cada eleitor votar e ao final mostrar o número de votos de cada candidato.](/Estrutura%20de%20repeticao/27.py)
-
-[28. Faça um programa que calcule o número médio de alunos por turma. Para isto, peça a quantidade de turmas e a quantidade de alunos para cada turma. As turmas não podem ter mais de 40 alunos.](/Estrutura%20de%20repeticao/28.py)
-
-[29. Faça um programa que calcule o valor total investido por um colecionador em sua coleção de CDs e o valor médio gasto em cada um deles. O usuário deverá informar a quantidade de CDs e o valor para em cada um.](/Estrutura%20de%20repeticao/29.py)
 
 
 
