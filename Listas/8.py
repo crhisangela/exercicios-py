@@ -8,7 +8,7 @@ for valor in range (0,5):
     idade.append(int(input("Digite a idade: ")))
     altura.append(float(input("Digite a altura: ")))
 
-print('Ordem inversa')
+print('Idade ordem inversa')
 for valor in range(0,5):
     print(idade[len(idade)-1-valor])
 

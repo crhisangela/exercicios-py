@@ -8,7 +8,7 @@ for elemento in range(0, 10):
     vetor1.append(int(input("Digite um elemento: ")))
     
 for elemento in range(0, 10):
-    vetor2.append(int(input("Digite um elemento: ")))
+    vetor2.append(int(input("Digite outro elemento: ")))
     
 for elemento in range(0, 10):
     vetor3.append(vetor1[elemento])
