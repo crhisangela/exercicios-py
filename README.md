@@ -136,7 +136,7 @@ Esta é uma [lista com sugestões de programas para iniciantes em programação]
 
 
 
-## Exercicios Listas
+## Exercicios Listas & dicionários
 [1. Faça um Programa que leia um vetor de 5 números inteiros e mostre-os.](/Listas/1.py)
 [2. Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.](/Listas/2.py)
 [3. Faça um Programa que leia 4 notas, mostre as notas e a média na tela.](/Listas/3.py)
@@ -151,6 +151,10 @@ Esta é uma [lista com sugestões de programas para iniciantes em programação]
 [13. Faça um programa que receba a temperatura média de cada mês do ano e armazene-as em uma lista. Após isto, calcule a média anual das temperaturas e mostre todas as temperaturas acima da média anual, e em que mês elas ocorreram (mostrar o mês por extenso: 1 – Janeiro, 2 – Fevereiro, . . . ).](/Listas/13.py)
 [14. Utilizando listas faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:](/Listas/14.py)
 [15. Faça um programa que leia um número indeterminado de valores, correspondentes a notas, encerrando a entrada de dados quando for informado um valor igual a -1 (que não deve ser armazenado). Após esta entrada de dados, faça:](/Listas/15.py)
+[16. Faça um dicionário com as 5 pessoas mais perto de você, tendo o nome como chave e a cor da camisa que está usando como valor.](/Listas/16.py)
+[17.  Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.](/Listas/17.py)
+[18. Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.](/Listas/18.py)
+
 
 ## Exercicios Funcoes
 
